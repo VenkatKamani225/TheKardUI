@@ -1,0 +1,54 @@
+.navbar{
+    margin-left: 10px;
+    padding: 10px 25px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Components-App{
+    position: absolute;
+  top: 25%;
+  left: 35%;
+    justify-content: center;
+    display: inline;
+    margin-top: 100px;
+}
+
+.Kard-Component{
+display: block;
+justify-content: center;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    height: 60px;
+}
+
+.Components-App{
+    justify-content: center;
+}
+
+.navbar button:hover {
+    background-color: #0056b3;
+  }
+  .logo {
+    height: 100%; /* Adjusts the logo to the height of the header */
+    max-width: 100px; /* Optional: limits the width to maintain the aspect ratio */
+    border: none;
+    border-radius: 1px;
+
+}
+
+    .logo img {
+        height: 100%; /* Adjusts the logo to the height of the header */
+        max-width: 100px; /* Optional: limits the width to maintain the aspect ratio */
+
+    }
+    
