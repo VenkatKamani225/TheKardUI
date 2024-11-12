@@ -26,6 +26,7 @@ function App() {
     <button onClick={
       ()=>{i ===profiles.length-1 ? setAccount(profiles[i]):setAccount(profiles[i+1], setI(i+1))}
       } disabled={i ===profiles.length-1}>Next</button>
+      /* Hello World*/
 
     </div>
     </>
